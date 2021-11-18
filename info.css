@@ -1,0 +1,101 @@
+.info{
+  margin-top: 100vh;
+  width: 80vw;
+  height: auto;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  border: 2px solid royalblue;
+  overflow: scroll;
+  padding: auto;
+  margin-top: 100vh;
+  /* float: right; */
+  
+}
+.profile h3 {
+  margin-top: 38vh;
+  text-align: center;
+}
+.label{
+  width: 20vw;
+  background: royalblue;
+  border: 2px solid blue ;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin: 0;
+  
+
+}
+input{
+  width: 50vw;
+  float: right;
+  display: inline-block;
+  line-height: 1vh;
+}
+
+.profile img{
+ width: 35vw;
+  height: 35vh;
+  border-radius: 50%;
+  
+/*   background: green; */  
+}
+.profile{
+  width: 35vw;
+  height: 35vh;
+ position: absolute;
+ left: 30vw;
+ right: 30vw;
+ top: 0;
+  background: green;
+  margin-top: 35vh;
+}
+/*starts here*/
+*{
+  box-sizing: border-box;
+}
+/*heder design*/
+.header {
+  height: 20vh;
+  width: 100vw;
+  background: blue;
+  position: fixed;
+  top:0;
+  left: 0 ;
+  right: 0;
+  z-index: 1;
+}
+.portabook{
+  position: absolute;
+  top: 0 ;
+  left: 0;
+  margin: 0;
+ height: 100%;
+ width:auto;
+ 
+}
+.portabook .Logo2{
+  height: 20vh;
+  width:30vw;
+  margin-right: 3vw;
+}
+/* Eend here*/
+
+.copyright img{
+  width: 30vw;
+  height:35vh;
+  padding: auto;
+  margin-top: 110vh;
+  margin-left: 35vw;
+  margin-right: 35vw;
+
+
+
+}
+ 
+
+.copyrights p{
+  font-family: Monospace;
+  text-align: center;
+}
+

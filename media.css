@@ -1,0 +1,22 @@
+@media(min-width:300px ) and (max-width:600px)  and (orientation:portrait){
+
+  .portabook img {
+    height: 10vh;
+  }
+  .header{
+    height: 10vh;
+  }
+  
+
+
+
+.copyright img {
+}
+.copyrights{
+  /* margin-top:; */
+}
+.portabook img{
+  width: 50vw;
+}
+}
+s

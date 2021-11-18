@@ -1,0 +1,1 @@
+$('.book-container').load('dist/index.html')

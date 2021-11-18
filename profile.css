@@ -1,0 +1,93 @@
+ input[type="file"]{
+        display: none;
+      }
+      .choose{
+        width: 30vw;
+        height: 12vh;
+        background: #000000;
+        color: white;
+        text-align: center;
+        margin-top: 55vh;
+        /* margin: auto; */
+        margin-left: auto;
+        margin-right: auto;
+        z-index: 1;
+
+      }
+      
+      .profile-pic{
+        width: 30vw;
+        height: 30vh;
+        border-radius: 50%;
+         margin-left: 33vw;
+        margin-right: 37vw;
+        margin-top: 21vh;
+        background: royalblue;
+        position: absolute;
+        top: 0;
+        /* flex: center; */
+        
+      }
+      .body{
+        margin: 0;
+        padding: 0;
+        
+      }
+      /*begin*/
+*{
+  box-sizing: border-box;
+}
+/*heder design*/
+.header {
+  height: 20vh;
+  width: 100vw;
+  background: blue;
+  position: fixed;
+  top:0;
+  left: 0 ;
+  right: 0;
+  z-index: 1;
+}
+.portabook{
+  position: absolute;
+  top: 0 ;
+  left: 0;
+  margin: 0;
+ height: 100%;
+ width:auto;
+ 
+}
+.portabook .Logo2{
+  height: 20vh;
+  width:30vw;
+  margin-right: 3vw;
+}
+/* Eend here*/
+
+.copyright img{
+  width: 30vw;
+  height:35vh;
+  padding: auto;
+  margin-top: 110vh;
+  margin-left: 35vw;
+  margin-right: 35vw;
+
+
+
+}
+ 
+
+.copyrights p{
+  font-family: Monospace;
+  text-align: center;
+}
+
+.input{
+  border: 1px solid blue;
+}
+:placeholder{
+  color: black;
+}
+.form{
+  margin-top: 25vh;
+}
